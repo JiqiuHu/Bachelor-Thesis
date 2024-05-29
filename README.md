@@ -6,10 +6,15 @@ Public opinion analysis system for EMR events
 
 # 2. pip install libraries
 pip install streamlit
+
 pip install streamlit_echarts
+
 pip install pyecharts
+
 pip install pandas
+
 pip install csv
+
 pip install snownlp
 
 # 3. Run the code
